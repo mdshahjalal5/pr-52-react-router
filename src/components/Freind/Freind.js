@@ -8,7 +8,7 @@ const Freind = ({freind}) => {
         <div className='freind'>
             <h2>Name: {name} </h2>
             <p>Email: {email} </p>
-            <p>Username: <Link to='any'><b>{username} </b></Link> </p>
+            <p>Username: <Link to={`/freind/${id}`}><b>{username} </b></Link> </p>
         </div>
     );
 };

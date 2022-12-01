@@ -1,0 +1,13 @@
+.freind-details{
+    background: rgb(80, 59, 100);
+    padding: 30px;
+    margin: 30px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 8px grey;
+    /* color:grey; */
+    color:brown
+}
+.freind-details a{
+    /* text-decoration: none; */
+    color: black;
+}
