@@ -1,0 +1,6 @@
+.undefined{
+    border: 2px solid grey;
+    box-shadow: 4px 4px 8px solid grey;
+    padding: 30px;
+    margin: 30px;
+}

@@ -1,0 +1,14 @@
+.header a{
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px 20px ;
+    border-radius: 3px;
+}
+.header a:hover{
+    background: skyblue;
+}
+.active{
+    border: 1px solid red;
+    background: peru;
+}
